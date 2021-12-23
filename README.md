@@ -1,8 +1,10 @@
-<h2>✨ Hi there, i'm Jamie Ghoorbin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+<h2>✨ Hi there, I'm Jamie Ghoorbin! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
 
-<p>
-  I'm a full stack Software Enginner at <a href="https://www.profilepensions.co.uk">Profile Pensions</a>
-</p>
+<h3>I'm a passionate Software Developer from London.</h3>
+<p><em>Full stack Software Engineer at <a href="https://www.profilepensions.co.uk">Profile Pensions</a></em></p>
+<p><em>Computer Science graduate from the <a href="https://www.kent.ac.uk/courses/visit">University of Kent, Canterbury</a></em></p>
+
+<br/>
 
 **Languages:**
 <code><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="25px"></code>
